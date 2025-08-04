@@ -4,7 +4,8 @@
 - **Código:** 0000337853
 - **Correo:** lauraherrod@unisabana.edu.co
 ## Enlace de despliegue (GitHub Pages)
-[Ver página desplegada]()
+[Ver página desplegada](https://dsaw-2025-ii.github.io/my-cv-part-a-Lauraher2906/)
+
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
